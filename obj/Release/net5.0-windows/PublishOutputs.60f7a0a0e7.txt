@@ -1,0 +1,5 @@
+D:\IT\C#_project\Fatorizer.exe
+D:\IT\C#_project\Fatorizer.dll
+D:\IT\C#_project\Fatorizer.deps.json
+D:\IT\C#_project\Fatorizer.runtimeconfig.json
+D:\IT\C#_project\Fatorizer.pdb
